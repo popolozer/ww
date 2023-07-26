@@ -1,0 +1,44 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=french-stream.ac&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AirbnbEcoPlus/frencharchive",
+        "fileSize": 18648,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Sarlay",
+            "Eddy976",
+            "AirbnbEcoPlus"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "FrenchStreamProvider",
+        "description": "FRENCH STREAM en plus d'\u00eatre un site efficace et plaisant dispose d'un contenu visuel diversifi\u00e9",
+        "url": "https://raw.githubusercontent.com/popolozer/wif/main/CS3-master/compiled/FrenchStreamProvider.cs3",
+        "name": "FrenchStreamProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=wiflix.zone&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AirbnbEcoPlus/frencharchive",
+        "fileSize": 26169,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Eddy"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "WiflixProvider",
+        "description": "WIFLIX, le site gr\u00e2ce auquel vous allez pouvoir regarder vos films et s\u00e9ries pr\u00e9f\u00e9r\u00e9es",
+        "url": "https://raw.githubusercontent.com/popolozer/wif/main/CS3-master/compiled/WiflixProvider.cs3",
+        "name": "WiflixProvider"
+    }
+]
